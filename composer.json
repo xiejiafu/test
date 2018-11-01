@@ -1,0 +1,14 @@
+{
+    "name": "xiejiafu/test",
+    "description": "a test composer project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xiejiafu",
+            "email": "23962638@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
